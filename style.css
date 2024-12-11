@@ -2,7 +2,7 @@ body{
     background-image: url("img.jpg") ;
 }
 #outer{
-    border: 6px rgb(92, 89, 89) solid;
+    border: 6px rgb(98, 85, 85) solid;
     border-radius: 15px;
     width: 258px;
     height: 400px;
@@ -10,15 +10,15 @@ body{
     margin-bottom:200px;
     margin-left:625px;
     margin-right:625px;
-    background-color: rgb(97, 183, 244);
+    background-color: rgb(86, 131, 163);
 }
 #screen{
     width: 235px;
     height: 110px;
-    border: 2px rgb(8, 6, 6) solid;
+    border: 2px rgb(26, 24, 24) solid;
     border-radius: 10px;
     margin: 11px;
-    background-color: rgb(211, 200, 209);
+    background-color: rgb(159, 185, 222);
 }
 #inner1{
     text-align: center;
@@ -36,12 +36,12 @@ body{
     width: 50px;
     height: 55px;
     text-align: center;
-    background-color: rgb(124, 238, 238);
-    color: black;
+    background-color: rgb(130, 148, 169);
+    color: rgb(206, 209, 229);
     border: black solid;
     border-radius: 10px;
     margin: 5px;
 }
 .buttons:hover{
-    background-color: rgb(30, 185, 185) ;
+    background-color: rgb(77, 98, 98) ;
 }
