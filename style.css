@@ -1,5 +1,8 @@
 body{
     background-image: url("img.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1050px;
 }
 #outer{
     border: 6px rgb(98, 85, 85) solid;
